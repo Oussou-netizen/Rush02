@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1747588412 source:c:\users\hp\desktop\rush\rush2\gestionnotes\calculatice.c
+	"calculatrice.h"
+
+1747590571 source:c:\users\hp\desktop\rush\rush2\gestionnotes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+	"calculatrice.h"
+
+1747585983 source:c:\users\hp\desktop\rush\rush2\gestionnotes\fonctions.c
+	<stdio.h>
+	"fonctions.h"
+
+1747585634 c:\users\hp\desktop\rush\rush2\gestionnotes\fonctions.h
+
+1747590726 c:\users\hp\desktop\rush\rush2\gestionnotes\calculatrice.h
+
